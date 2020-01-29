@@ -6,7 +6,7 @@
 
 //----------
 
-$name = './img/ok.png';
+$name = 'https://github.com/KevinSolimo/CheckMailOpen/raw/master/XECURITY_LOGO.png';
 
 //----------
 
